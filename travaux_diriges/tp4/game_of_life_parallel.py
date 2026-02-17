@@ -196,4 +196,3 @@ if __name__ == '__main__':
                     else:
                         globCom.send(grid_glob, dest=0)
             print(f"Temps calcul prochaine generation : {t2-t1:2.2e} secondes", flush=True)
-
